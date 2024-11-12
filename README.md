@@ -14,7 +14,7 @@ A modern hotel management system built with React and TypeScript, featuring real
 - 🔍 Advanced room filtering and sorting
 
 ### Demo Credentials
-- Link      : https://ornate-cucurucho-90dba1.netlify.app/
+
 - Username  : receptionist
 - Password  : demo123
 
